@@ -15,3 +15,4 @@ test branch dev
 
 test branch dev2
 
+conflict demo
